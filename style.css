@@ -19,11 +19,9 @@
 .hero p{
     font-size: 18px;
     color: #E5E7EB; 
-    padding-left: 150px;
+    margin-left: 150px;
     text-align: left;
-    margin-top: -60px;
-    margin-bottom: 50px;
-    padding-bottom: -70px;
+   
     
     
 }
@@ -54,9 +52,30 @@
 
 
 .hero h1{
-    padding-left: 150px;
+    margin-left: 150px;
+}
+
+.hero p{
+    margin-bottom: 8px;
 }
 .hero button{
+    cursor: pointer;
+    padding: 15px;px;
+    border: 20px;
+    margin-bottom: 100px;
     margin-left: 150px;
+    color: #ffffff;
+    background-color:#3882F6;
+    border-radius: 6px
+    
+    
+    
 
+}
+
+.item4 img{
+  position: absolute;
+  right: 180px;
+  top: 135px;
+  width: 400px;
 }
